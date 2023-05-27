@@ -75,9 +75,7 @@ background: #CC13EA;
 
 ![login](https://github.com/22008686/event-registration/assets/118916413/e3ac207b-c5fa-4fb2-a66a-42127ce2243e)
 
-![Uploading sec.png…]()
-
-
+![sec](https://github.com/22008686/event-registration/assets/118916413/75058e13-93bb-4274-bc9f-4b682674120b)
 
 ## Result:
 
