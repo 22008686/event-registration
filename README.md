@@ -40,7 +40,7 @@ Publish the website in the given URL.
 Figma
 
 ## Code:
-
+```
 /* HOME PAGE */
 
 
@@ -76,6 +76,7 @@ background: #CC13EA;
 ![login](https://github.com/22008686/event-registration/assets/118916413/e3ac207b-c5fa-4fb2-a66a-42127ce2243e)
 
 ![Uploading sec.png…]()
+
 
 
 ## Result:
